@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="UserTest" project="examserver" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="com.exam.model.UserTest" time="0.045" displayname="UserTest" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]">
+    <testcase name="testUserLoginUSernameNoNExisiting" classname="com.exam.model.UserTest" time="0.015" displayname="testUserLoginUSernameNoNExisiting()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginUSernameNoNExisiting()]"/>
+    <testcase name="testUserLoginUSernameForExisiting" classname="com.exam.model.UserTest" time="0.003" displayname="testUserLoginUSernameForExisiting()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginUSernameForExisiting()]"/>
+    <testcase name="testUserLoginEmailvalid" classname="com.exam.model.UserTest" time="0.002" displayname="testUserLoginEmailvalid()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginEmailvalid()]"/>
+    <testcase name="testUserLoginPhoneNumberValid" classname="com.exam.model.UserTest" time="0.002" displayname="testUserLoginPhoneNumberValid()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginPhoneNumberValid()]"/>
+    <testcase name="testUserLoginPhoneNumberInvalid" classname="com.exam.model.UserTest" time="0.003" displayname="testUserLoginPhoneNumberInvalid()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginPhoneNumberInvalid()]"/>
+    <testcase name="testUserLoginPhoneNumberInValid1" classname="com.exam.model.UserTest" time="0.002" displayname="testUserLoginPhoneNumberInValid1()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginPhoneNumberInValid1()]"/>
+    <testcase name="testUserLoginUSernameNonExisiting" classname="com.exam.model.UserTest" time="0.001" displayname="testUserLoginUSernameNonExisiting()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginUSernameNonExisiting()]"/>
+    <testcase name="testUserLoginEmailInvalid" classname="com.exam.model.UserTest" time="0.001" displayname="testUserLoginEmailInvalid()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginEmailInvalid()]"/>
+    <testcase name="testUserLoginPasswordNonExisiting" classname="com.exam.model.UserTest" time="0.002" displayname="testUserLoginPasswordNonExisiting()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginPasswordNonExisiting()]"/>
+    <testcase name="testUserLoginPasswordExisiting" classname="com.exam.model.UserTest" time="0.013" displayname="testUserLoginPasswordExisiting()" uniqueid="[engine:junit-jupiter]/[class:com.exam.model.UserTest]/[method:testUserLoginPasswordExisiting()]"/>
+  </testsuite>
+</testrun>

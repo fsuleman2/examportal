@@ -1,0 +1,25 @@
+package com.exam.model;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
+
+import com.exam.service.UserService;
+import com.exam.service.impl.UserServiceImpl;
+
+class UserTest {
+public static UserService service = null;
+public static User user=null;
+	@BeforeAll
+	public static void setup() {
+		service= new UserServiceImpl();
+		user = new User();
+	}
+	@Test
+	void testUserLoginUSernameForExisiting() throws Exception{
+		user.setUsername("sul123");
+		assertTrue("sul123".equals(user.getUsername()));
+	}
+
+}

@@ -1,0 +1,7 @@
+2021-09-03 12:11:35,230 INFO c.e.ExamserverApplication [main] Starting ExamserverApplication on suleman with PID 17892 (E:\Project2-master\examserver\target\classes started by fsuleman2 in E:\Project2-master\examserver)
+2021-09-03 12:11:35,246 DEBUG c.e.ExamserverApplication [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-09-03 12:11:35,247 INFO c.e.ExamserverApplication [main] No active profile set, falling back to default profiles: default
+2021-09-03 12:11:40,399 DEBUG c.e.c.JwtAuthenticationFilter [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-09-03 12:11:45,018 INFO c.e.ExamserverApplication [main] Started ExamserverApplication in 11.412 seconds (JVM running for 16.933)
+2021-09-03 12:11:45,022 INFO c.e.ExamserverApplication [main] ********************helloooooooooooooooo*******
+/examserver/src/main/java/com/exam/config/JwtAuthenticationFilter.java
